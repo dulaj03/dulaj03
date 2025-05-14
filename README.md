@@ -8,6 +8,3 @@ I'm a passionate and goal-oriented developer currently pursuing **a Bachelor’s
 - 🔌 IoT Projects: Arduino-based smart plantation systems
 
 Still learning and trying to imorove all these sides for a professional carrier. I’m passionate about sustainability, tech for good, and enabling better user experiences through clean design and functional code.
-
-## Contact :-
-- dulaj.dulsith@gmail.com
