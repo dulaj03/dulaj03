@@ -1,10 +1,13 @@
-# 🌱 About Me
-I'm a passionate and goal-oriented developer focused on building practical and user-friendly web and mobile applications. My projects span from e-commerce platforms and POS systems to smart IoT solutions and educational management tools. I enjoy solving real-world problems using technologies like:
+# Dulaj Dulsith
+I'm a passionate and goal-oriented developer currently pursuing a Bachelor’s Degree in Computing under Plymouth University, UK as a 2nd year student. I have successfully completed my GCE  (A/L) and (O/L) examinations, as well as Diplomas in ICT (DTec) and English (DIe) from Esoft Metro Campus. I enjoy solving real-world problems using technologies like:
 
 - 💻 Web Development: HTML, CSS, JavaScript, PHP, MySQL, Bootstrap
-- 📱 Mobile Development: Flutter, Dart, Firebase
+- 💬 Real-Time Features: Implemented live public chatrooms with real-time updates using PHP and MySQL
+- 💳 Payment Systems: Integrated secure Stripe and PayPal payment gateways for web transactions
 - 🌐 Frameworks & Tools: ASP.NET, XAMPP, VS Code, Android Studio
 - 🔌 IoT Projects: Arduino-based smart plantation systems
-- 🛠️ Software Integration: Stripe & PayPal payment systems, admin panels, real-time notifications, CRUD apps
 
 Still learning and trying to imorove all these sides for a professional carrier. I’m passionate about sustainability, tech for good, and enabling better user experiences through clean design and functional code.
+
+## Contact :-
+- dulaj.dulsith@gmail.com
