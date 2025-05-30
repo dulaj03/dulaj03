@@ -2,6 +2,8 @@
 
 Here is my Portfolio Website: https://my-portfolio-sigma-ivory-60.vercel.app/
 
+<img src="/banner.jpeg" alt="Banner">
+
 I'm a passionate and goal-oriented developer currently pursuing **a Bachelor’s Degree in Computing under Plymouth University, UK as a 2nd year student**. I have successfully completed my GCE  (A/L) and (O/L) examinations, as well as **Diplomas in ICT (DiTEC) and English (DIE) from Esoft Metro Campus**. I enjoy solving real-world problems using technologies like:
 
 - 💻 Web Development: HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, Node.js, Express.js, Socket.io
