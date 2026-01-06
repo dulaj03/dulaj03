@@ -3,7 +3,7 @@
   <img src="./banner.jpg" alt="Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi there 👋, I'm Dulaj Dulsith</h1>
+<h3 align="center">Hi there 👋, I'm Dulaj Dulsith</h3>
 
 🌐 **My Portfolio Website:**  
 👉 https://my-portfolio-sigma-ivory-60.vercel.app/
