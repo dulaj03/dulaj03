@@ -4,9 +4,7 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Dulaj Dulsith</h1>
-  Undergraduate Computing Student
-
----
+<center> Undergraduate Computing Student </center>
 
 🌐 **My Portfolio Website:**  
 👉 https://my-portfolio-sigma-ivory-60.vercel.app/
