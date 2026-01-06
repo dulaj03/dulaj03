@@ -1,16 +1,108 @@
-# Dulaj Dulsith
+<!-- Banner -->
+<p align="center">
+  <img src="./banner.jpg" alt="Banner" width="100%" />
+</p>
 
-Here is my Portfolio Website: https://my-portfolio-sigma-ivory-60.vercel.app/
+<h1 align="center">Hi there 👋, I'm Dulaj Dulsith</h1>
+<h3 align="center">
+  Undergraduate Computing Student | Full-Stack Developer | MERN & IoT Enthusiast
+</h3>
 
-<img src="./banner.jpg" alt="Banner">
+---
 
-I'm a passionate and goal-oriented developer currently pursuing **a Bachelor’s Degree in Computing under Plymouth University, UK as a 2nd year student**. I have successfully completed my GCE  (A/L) and (O/L) examinations, as well as **Diplomas in ICT (DiTEC) and English (DIE) from Esoft Metro Campus**. I enjoy solving real-world problems using technologies like:
+## 👨‍💻 About Me
 
-- 💻 Web Development: HTML, CSS, JavaScript, PHP, MySQL, Bootstrap, Node.js, Express.js, Socket.io
-- 💬 Real-Time Features: Implemented live public chatrooms with real-time updates using PHP and MySQL
-- 💳 Payment Systems: Integrated secure Stripe and PayPal payment gateways for web transactions
-- 🌐 Frameworks & Tools: ASP.NET, XAMPP, VS Code, Android Studio
-- 🔌 IoT Projects: Arduino-based smart plantation systems
-- 🚀 Version Controlling: Git knowledge with completing some carreer essentials in GitHub.
+I'm a **passionate and goal-oriented developer** currently pursuing a  
+🎓 **Bachelor’s Degree in Computing (2nd Year)** under **Plymouth University, UK**.
 
-Still learning and trying to improve all these sides for a professional carrier. I’m passionate about sustainability, tech for good, and enabling better user experiences through clean design and functional code.
+I have successfully completed:
+- 📘 GCE (O/L) and (A/L)
+- 🎓 **Diploma in ICT (DiTEC)** – Esoft Metro Campus
+- 🗣️ **Diploma in English (DIE)** – Esoft Metro Campus
+
+I enjoy building **real-world applications**, learning modern technologies, and continuously improving my skills for a **professional software engineering career**.
+
+---
+
+## 🚀 Tech Stack
+
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+
+---
+
+### ⚙️ Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+
+---
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+---
+
+### 🔄 Real-Time & Payments
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal)
+
+---
+
+### 🛠️ DevOps & Version Control
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
+---
+
+## 🔥 What I’ve Built
+
+- 💬 **Real-Time Public Chatrooms** (PHP, MySQL, Socket.io)
+- 🛒 **E-commerce & POS Systems**
+- 💳 **Stripe & PayPal Integrated Payment Systems**
+- 🌱 **Arduino-based Smart Plantation (IoT)**
+- ⚛️ **MERN Stack Applications (Learning & Building)**
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced MERN Stack
+- Docker & CI/CD workflows
+- System design & scalable backend architecture
+- Clean UI/UX patterns
+
+---
+
+## 🔗 Portfolio
+
+🌐 **My Portfolio Website:**  
+👉 https://my-portfolio-sigma-ivory-60.vercel.app/
+
+---
+
+## 📫 Contact
+
+- 💼 GitHub: **Dulaj Dulsith**
+- 📧 Email: *(add if you want)*  
+- 🤝 Open to internships, freelance work & collaborations
+
+---
+
+## ⚡ Fun Fact
+
+Still learning, still building, still improving 🚀  
+Consistency beats motivation.
+
+---
+
+<p align="center">
+  ⭐ If you like my work, consider giving a star!
+</p>
