@@ -15,7 +15,7 @@ I'm a **passionate and goal-oriented developer** currently pursuing a 🎓 **Bac
 
 I enjoy building **real-world applications**, learning modern technologies, and continuously improving my skills for a **professional career**.
 
-# 🚀 Tech Stack
+### 🚀 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -37,7 +37,7 @@ I enjoy building **real-world applications**, learning modern technologies, and 
 
 ---
 
-# 🌱 Currently Learning
+### 🌱 Currently Learning
 
 - Advanced MERN Stack
 - Docker & CI/CD workflows
@@ -46,7 +46,7 @@ I enjoy building **real-world applications**, learning modern technologies, and 
 
 ---
 
-# 📫 Contact
+### 📫 Contact
 
 - 💼 GitHub: **Dulaj Dulsith**
 - 📧 Email: *dulaj.dulsith@gmail.com*  
@@ -54,7 +54,7 @@ I enjoy building **real-world applications**, learning modern technologies, and 
 
 ---
 
-# ⚡ Fun Fact
+### ⚡ Fun Fact
 
 Still learning, still building, still improving 🚀  
 Consistency beats motivation.
