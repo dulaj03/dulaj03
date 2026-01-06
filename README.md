@@ -16,8 +16,6 @@ I'm a **passionate and goal-oriented developer** currently pursuing a 🎓 **Bac
 
 I enjoy building **real-world applications**, learning modern technologies, and continuously improving my skills for a **professional software engineering career**.
 
-<br />
-
 ## 🚀 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
