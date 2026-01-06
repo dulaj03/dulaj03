@@ -4,22 +4,19 @@
 </p>
 
 <h1 align="center">Hi there 👋, I'm Dulaj Dulsith</h1>
-<center> Undergraduate Computing Student </center>
 
 🌐 **My Portfolio Website:**  
 👉 https://my-portfolio-sigma-ivory-60.vercel.app/
 
 
-I'm a **passionate and goal-oriented developer** currently pursuing a 🎓 **Bachelor’s Degree in Computing (2nd Year)** under **Plymouth University, UK**.
-
-I have successfully completed:
+I'm a **passionate and goal-oriented developer** currently pursuing a 🎓 **Bachelor’s Degree in Computing (2nd Year)** under **Plymouth University, UK**. I have successfully completed:
 - 📘 GCE (O/L) and (A/L)
 - 🎓 **Diploma in ICT (DiTEC)** – Esoft Metro Campus
 - 🗣️ **Diploma in English (DIE)** – Esoft Metro Campus
 
 I enjoy building **real-world applications**, learning modern technologies, and continuously improving my skills for a **professional software engineering career**.
 
----
+<br />
 
 ## 🚀 Tech Stack
 
