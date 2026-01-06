@@ -5,15 +5,18 @@
 
 <h1 align="center">Hi there 👋, I'm Dulaj Dulsith</h1>
 <h3 align="center">
-  Undergraduate Computing Student | Full-Stack Developer | MERN & IoT Enthusiast
+  Undergraduate Computing Student
 </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **passionate and goal-oriented developer** currently pursuing a  
-🎓 **Bachelor’s Degree in Computing (2nd Year)** under **Plymouth University, UK**.
+🌐 **My Portfolio Website:**  
+👉 https://my-portfolio-sigma-ivory-60.vercel.app/
+
+
+I'm a **passionate and goal-oriented developer** currently pursuing a 🎓 **Bachelor’s Degree in Computing (2nd Year)** under **Plymouth University, UK**.
 
 I have successfully completed:
 - 📘 GCE (O/L) and (A/L)
@@ -26,49 +29,22 @@ I enjoy building **real-world applications**, learning modern technologies, and 
 
 ## 🚀 Tech Stack
 
-### 🌐 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-
----
-
-### ⚙️ Backend
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-
----
-
-### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
----
-
-### 🔄 Real-Time & Payments
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal)
-
----
-
-### 🛠️ DevOps & Version Control
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
----
-
-## 🔥 What I’ve Built
-
-- 💬 **Real-Time Public Chatrooms** (PHP, MySQL, Socket.io)
-- 🛒 **E-commerce & POS Systems**
-- 💳 **Stripe & PayPal Integrated Payment Systems**
-- 🌱 **Arduino-based Smart Plantation (IoT)**
-- ⚛️ **MERN Stack Applications (Learning & Building)**
 
 ---
 
@@ -81,17 +57,10 @@ I enjoy building **real-world applications**, learning modern technologies, and 
 
 ---
 
-## 🔗 Portfolio
-
-🌐 **My Portfolio Website:**  
-👉 https://my-portfolio-sigma-ivory-60.vercel.app/
-
----
-
 ## 📫 Contact
 
 - 💼 GitHub: **Dulaj Dulsith**
-- 📧 Email: *(add if you want)*  
+- 📧 Email: *dulaj.dulsith@gmail.com*  
 - 🤝 Open to internships, freelance work & collaborations
 
 ---
