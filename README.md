@@ -3,9 +3,7 @@
   <img src="./banner.jpg" alt="Banner" width="100%" />
 </p>
 
-<h3 align="center">Hi there 👋, I'm Dulaj Dulsith</h3>
-
-🌐 **My Portfolio Website:**  
+🌐 **Hii, Here is My Portfolio Website:**  
 👉 https://my-portfolio-sigma-ivory-60.vercel.app/
 
 I'm a **passionate and goal-oriented developer** currently pursuing a 🎓 **Bachelor’s Degree in Computing (2nd Year)** under **Plymouth University, UK**. I have successfully completed:
