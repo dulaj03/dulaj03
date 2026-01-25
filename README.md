@@ -6,7 +6,7 @@
 🌐 **Hii, Here is My Portfolio Website:**  
 👉 https://my-portfolio-sigma-ivory-60.vercel.app/
 
-I'm a **passionate and goal-oriented developer** currently pursuing a 🎓 **Bachelor’s Degree in Computing (2nd Year)** under **Plymouth University, UK**. I have successfully completed:
+I'm a **passionate and goal-oriented developer** currently pursuing a 🎓 **Bachelor’s Degree in Computing (Last Year)** under **Plymouth University, UK**. I have successfully completed:
 - 📘 GCE (O/L) and (A/L) 
 - 🗣️ **Diploma in ICT (DiTEC)** – Esoft Metro Campus
 - 🗣️ **Diploma in English (DIE)** – Esoft Metro Campus
