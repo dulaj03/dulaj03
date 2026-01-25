@@ -30,6 +30,8 @@ I enjoy building **real-world applications**, learning modern technologies, and 
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
