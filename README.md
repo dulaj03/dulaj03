@@ -10,7 +10,7 @@ I'm a **passionate and goal-oriented developer** currently pursuing a 🎓 **Bac
 - 📘 GCE (O/L) and (A/L) 
 - 🗣️ **Diploma in ICT (DiTEC)** – Esoft Metro Campus
 - 🗣️ **Diploma in English (DIE)** – Esoft Metro Campus
-- 🎓 **BSc (hons) in Software Engineering - NSBM Green University *
+- 🎓 **BSc (hons) in Software Engineering** - NSBM Green University *
 
 I enjoy building **real-world applications**, learning modern technologies, and continuously improving my skills for a **professional career**.
 
