@@ -42,8 +42,8 @@ I enjoy building **real-world applications**, learning modern technologies, and 
 
 ### 🌱 Currently Learning
 
-- Advanced MERN Stack
-- Docker & CI/CD workflows
+- Advanced MERN / PERN Stack... etc
+- DevOps / CI/CD workflows
 - System design & scalable backend architecture
 - Clean UI/UX patterns
 
@@ -52,7 +52,8 @@ I enjoy building **real-world applications**, learning modern technologies, and 
 ### 📫 Contact
 
 - 💼 GitHub: **Dulaj Dulsith**
-- 📧 Email: *dulaj.dulsith@gmail.com*  
+- 📧 Email: *dulaj.dulsith@gmail.com*
+- 📞 Contact or WhatsApp: *+94 72 202 6105*  
 - 🤝 Open to internships, freelance work & collaborations
 
 ---
