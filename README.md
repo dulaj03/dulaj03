@@ -6,11 +6,11 @@
 🌐 **Hii, Here is My Portfolio Website:**  
 👉 https://my-portfolio-sigma-ivory-60.vercel.app/
 
-I'm a **passionate and goal-oriented developer** currently pursuing a 🎓 **Bachelor’s Degree in Computing (Last Year)** under **Plymouth University, UK**. I have successfully completed:
-- 📘 GCE (O/L) and (A/L) 
+I'm a **passionate and goal-oriented developer** recently awarded with a **First Class Honours** on 🎓 **Bachelor’s Degree in Software Engineering** under **University of Plymouth, UK**. Also I have successfully completed:
+- 🎓 **BSc (hons) in Software Engineering** - University of Plymouth (Awarded: First Class Honours)
 - 🗣️ **Diploma in ICT (DiTEC)** – Esoft Metro Campus
 - 🗣️ **Diploma in English (DIE)** – Esoft Metro Campus
-- 🎓 **BSc (hons) in Software Engineering** - NSBM Green University *
+- 📘 GCE (O/L) and (A/L)
 
 I enjoy building **real-world applications**, learning modern technologies, and continuously improving my skills for a **professional career**.
 
@@ -26,12 +26,16 @@ I enjoy building **real-world applications**, learning modern technologies, and 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe)
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge)
